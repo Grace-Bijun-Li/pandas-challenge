@@ -8,7 +8,7 @@ This is an analysis of a fantasy game called Heroes of Pymoli. This is a free-to
 
 In this analysis, the following folder contains the *raw data* and the *Jupyter notebook*:
 
-[HeroesOfPymoli](https://github.com/Grace-Bijun-Li/python-challenge/tree/main/PyBank)
+[HeroesOfPymoli](https://github.com/Grace-Bijun-Li/pandas-challenge/tree/main/HeroesOfPymoli)
 
 
 
